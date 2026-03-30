@@ -1,5 +1,6 @@
 # 💫 About Me:
-🎓 STUDENT OF BTECH SPECIALIZATION IN ELECTRONICS AND TELECOMMUNICATION<br>
+🎓 Student of BTech speacialization in Electronics and Telecommunication<br>
+🔬 Passionate about AI, ML & IoT
 
 
 ## 🌐 Socials:
